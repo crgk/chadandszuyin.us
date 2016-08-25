@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Chad & Szuyin
+bio:                'May 20, 2017 - Ames, IA'
+description:        "Chad and Szuyin are getting married!"
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                http://chadandszuyin.us
 
 # Jekyll
 permalink:          /:title/
@@ -25,9 +25,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   taylantatli
-
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -38,18 +35,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+#twitter:            username
+#facebook:           username
+#github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
