@@ -8,15 +8,15 @@ comments: false
 
 We hope you can join us for our wedding on May 20, 2017. Look forward to music, food, games, drinks, and dancing!
 
-#Location: 
-<ul style = "list-style:none;">
-  <li>[Prairie Moon Winery](http://www.prairiemoonwinery.com/)</li>
+# Location:
+<ul style="list-style:none;">
+  <li><a href="http://www.prairiemoonwinery.com/">Prairie Moon Winery</a></li>
   <li>3801 W 190th St</li>
   <li>Ames, IA 50014</li>
 </ul>
 
-#Schedule: 
-<ul style = "list-style:none;">
+# Schedule:
+<ul style="list-style:none;">
   <li>3:30pm - Pre-ceremony drinks & mingling</li>
   <li>4:00pm - Ceremony</li>
   <li>4:30pm - Reception</li>
@@ -25,9 +25,9 @@ We hope you can join us for our wedding on May 20, 2017. Look forward to music, 
   <li>11:00pm - Reception ends; third shuttle departs</li>
 </ul>
 
-#Help us capture our wedding memories!
-<ul style = "list-style:none;">
-  <li>\#OhWhatAKnight</li>
-  <li>\#ChadAndSzuyin</li>
-  <li>\#CanYouFeelTheLoveToKnight</li>
+# Help us capture our wedding memories!
+<ul style="list-style:none;">
+  <li>#OhWhatAKnight</li>
+  <li>#ChadAndSzuyin</li>
+  <li>#CanYouFeelTheLoveToKnight</li>
 </ul>
