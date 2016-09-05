@@ -6,38 +6,28 @@ comments: false
 
 <center>Chad and Szuyin's Wedding</center>
 
-
 We hope you can join us for our wedding on May 20, 2017. Look forward to music, food, games, drinks, and dancing!
 
+#Location: 
+<ul style = "list-style:none;">
+  <li>[Prairie Moon Winery](http://www.prairiemoonwinery.com/)</li>
+  <li>3801 W 190th St</li>
+  <li>Ames, IA 50014</li>
+</ul>
 
-Location: 
+#Schedule: 
+<ul style = "list-style:none;">
+  <li>3:30pm - Pre-ceremony drinks & mingling</li>
+  <li>4:00pm - Ceremony</li>
+  <li>4:30pm - Reception</li>
+  <li>9:00pm - First shuttle departs</li>
+  <li>10:00pm - Second shuttle departs</li>
+  <li>11:00pm - Reception ends; third shuttle departs</li>
+</ul>
 
-[Prairie Moon Winery](http://www.prairiemoonwinery.com/)
-
-3801 W 190th St
-
-Ames, IA 50014
-
-
-Schedule: 
-
-3:30pm - Pre-ceremony drinks & mingling
-
-4:00pm - Ceremony
-
-4:30pm - Reception
-
-9:00pm - First shuttle departs
-
-10:00pm - Second shuttle departs
-
-11:00pm - Reception ends; third shuttle departs
-
-
-Help us capture our wedding memories!
-
-\#OhWhatAKnight
-
-\#ChadAndSzuyin
-
-\#CanYouFeelTheLoveToKnight
+#Help us capture our wedding memories!
+<ul style = "list-style:none;">
+  <li>\#OhWhatAKnight</li>
+  <li>\#ChadAndSzuyin</li>
+  <li>\#CanYouFeelTheLoveToKnight</li>
+</ul>
