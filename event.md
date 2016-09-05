@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Chad & Szuyin
+title: Event Info
 comments: false
 ---
-
-<center>Chad and Szuyin's Wedding</center>
 
 We hope you can join us for our wedding on May 20, 2017. Look forward to music, food, games, drinks, and dancing!
 
