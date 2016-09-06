@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo-360x360.svg"
-   inkscape:export-filename="/Users/chadknight/workspaces/crgk/chadandszuyin.us/assets/img/logo-16x16png"
-   inkscape:export-xdpi="4"
-   inkscape:export-ydpi="4">
+   inkscape:export-filename="/Users/chadknight/workspaces/crgk/chadandszuyin.us/assets/img/logo-32x32.png"
+   inkscape:export-xdpi="8"
+   inkscape:export-ydpi="8">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,11 +29,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.5837486"
-     inkscape:cx="177.53851"
+     inkscape:cx="146.57575"
      inkscape:cy="161.58205"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1916"
      inkscape:window-height="1155"
      inkscape:window-x="0"
@@ -45,7 +45,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      borderlayer="false"
-     inkscape:showpageshadow="false" />
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4544" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -62,7 +66,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none"
+     style="display:inline"
      transform="translate(-86.571442,-187.77756)" />
   <g
      inkscape:groupmode="layer"
@@ -72,9 +76,10 @@
      transform="translate(-86.571442,-187.77756)">
     <path
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 176.80469 38.439453 A 135.71428 135.71428 0 0 0 41.089844 174.1543 A 135.71428 135.71428 0 0 0 150.91602 307.32422 A 118.18395 146.16689 0 0 1 114.79102 202.35352 A 118.18395 146.16689 0 0 1 232.97461 56.1875 A 118.18395 146.16689 0 0 1 244.9707 56.955078 A 135.71428 135.71428 0 0 0 176.80469 38.439453 z "
+       d="M 176.80469,38.439453 A 135.71428,135.71428 0 0 0 41.089844,174.1543 135.71428,135.71428 0 0 0 150.91602,307.32422 118.18395,146.16689 0 0 1 114.79102,202.35352 118.18395,146.16689 0 0 1 232.97461,56.1875 118.18395,146.16689 0 0 1 244.9707,56.955078 135.71428,135.71428 0 0 0 176.80469,38.439453 Z"
        transform="translate(86.571442,187.77756)"
-       id="path3340" />
+       id="path3340"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -85,7 +90,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="Grass">
+       inkscape:label="Grass"
+       style="display:inline">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
          id="path4342"
@@ -173,7 +179,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="S">
+       inkscape:label="S"
+       style="display:inline">
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          id="path4491"
