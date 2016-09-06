@@ -15,7 +15,7 @@ We hope you can join us for our wedding on May 20, 2017. Look forward to music, 
 
 # Schedule:
 <ul style="list-style:none;">
-  <li>3:30pm - Pre-ceremony drinks & mingling</li>
+  <li>3:00pm - Optional happy hour at <a href="http://www.alluvialbrewing.com/">Alluvial Brewing</a></li>
   <li>4:00pm - Ceremony</li>
   <li>4:30pm - Reception</li>
   <li>9:00pm - First shuttle departs</li>
