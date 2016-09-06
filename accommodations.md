@@ -6,9 +6,10 @@ comments: false
 
 We've booked a block of rooms under "Leow/Knight wedding" at the Gateway.
 
-Location: 
-[Gateway Hotel and Conference Center](http://gatewayames.com/)
-2100 Green Hills Drive
-Ames, Iowa 50014
-515-292-8600
+<ul style="list-style:none;">
+  <li><a href="http://gatewayames.com/">Gateway Hotel and Conference Center</a></li>
+  <li>2100 Green Hills Drive</li>
+  <li>Ames, Iowa 50014</li>
+  <li>515-292-8600</li>
+</ul>
 
