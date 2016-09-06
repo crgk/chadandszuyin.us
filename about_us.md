@@ -8,3 +8,5 @@ Chad and Szuyin met at Iowa State University. They now live in Chicago with thei
 
 ![blackandwhite](/assets/img/blackandwhite.jpg)
 
+![prairiemoonformal](/assets/img/prairiemoonformal.jpg)
+
