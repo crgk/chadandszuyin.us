@@ -4,7 +4,7 @@ bio:                'May 20, 2017 - Ames, IA'
 description:        "Chad and Szuyin are getting married!"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo-200x200.png'
+logo:               '/assets/img/logo-360x360.svg'
 background:         'assets/img/prairie-moon-patio.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US

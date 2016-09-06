@@ -10,7 +10,6 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
-    {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper">
@@ -18,7 +17,10 @@ layout: compress
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="/">
-                        <i class="fa fa-chevron-left"></i>
+                        <span>
+                            <i class="fa fa-chevron-left"></i>
+                            <img class="logo-small" src="{{ site.logo }}" />
+                        </span>
                     </a>
                 </div>
                 {{ content }}
