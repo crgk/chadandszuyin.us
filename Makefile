@@ -12,8 +12,12 @@ serve:
 .PHONY: sync
 sync:
 	git pull origin master
-	make build upload
+	make build purge upload
 
 .PHONY: upload
 upload:
 	aws s3 sync _site/ s3://chadandszuyin.us --profile $(AWS_PROFILE) --acl public-read
+
+.PHONY: purge
+purge:
+	aws s3 rm s3://chadandszuyin.us --profile $(AWS_PROFILE) --recursive
