@@ -43,11 +43,22 @@ h6 {
     background: url(../img/prairie-moon-patio-bw.jpg) no-repeat center center;
     background-size: cover;
 }
+
 .intro-message {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
     width: 256px;
+}
+
+.rsvp.intro-message {
+    width: initial;
+    padding-bottom: initial;
+}
+
+.rsvp.form-horizontal {
+    text-align: left;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
 .intro-message > h1 {

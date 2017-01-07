@@ -13,6 +13,12 @@
     };
   })(jQuery);
 
+  var nextGuest = 2;
+  $('#addGuest').click(function(e) {
+      $('#guest' + nextGuest).show();
+      nextGuest = nextGuest + 1;
+  });
+
   $('#rsvp-form').submit(function(e) {
     // prevent default submiting form
     e.preventDefault();
