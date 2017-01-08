@@ -17,6 +17,10 @@
   $('#addGuest').click(function(e) {
       $('#guest' + nextGuest).show();
       nextGuest = nextGuest + 1;
+
+      if (nextGuest >= 11) {
+          $('#addGuest').hide();
+      }
   });
 
   $('#rsvp-form').submit(function(e) {
