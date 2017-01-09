@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Us
-comments: false
 ---
 
 We met at Iowa State University when we were both serving as committee members for the student-run philanthropy, Dance Marathon. Our first real interaction involved us running around Iowa State's Central Campus covered from head to toe in teal paint as part of a promotional stunt for Dance Marathon. Luckily, our first shared memories together were all captured by our Dance Marathon PR team, so - no worries - you can all [relive those special moments on YouTube](https://www.youtube.com/watch?v=NGdumodZ7cE) (Chad's the one in the luchador mask). 
