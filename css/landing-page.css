@@ -31,8 +31,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/lake-laverne-bw.jpg) no-repeat center center;
-    background-size: contain;
+    background: url(../img/black-and-white.jpg) no-repeat center 43%;
+    background-size: cover;
 }
 
 .rsvp-header {
@@ -138,10 +138,17 @@ h6 {
     border-top: 3px solid #e7e7e7;
 }
 
+.columns-spacer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+    border-top: 3px solid #e7e7e7;
+}
+
 .banner {
-    padding: 200px 0;
+    padding: 240px 0;
     color: #f8f8f8;
-    background: url(../img/black-and-white.jpg) no-repeat 0% 43%;
+    background: url(../img/lake-laverne-bw.jpg) no-repeat 0% 27%;
     background-size: cover;
 }
 
