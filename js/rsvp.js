@@ -37,7 +37,7 @@
       type: 'POST',
 
       success: function(data) {
-        window.location.href = 'thanks';
+        window.location.href = 'thanks.html';
       },
 
       // handling error response
