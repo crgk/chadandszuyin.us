@@ -1,6 +1,6 @@
 ---
 layout: default
-img: bend.jpg
+img: grad-campanile.jpg
 category: Sections
 title: Things to do in Ames
 decription: |
