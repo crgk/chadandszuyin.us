@@ -4,6 +4,8 @@
   <section id="{{ post.title | downcase }}">
     {% if post.layout == 'columns' %}
       {% include column_content.html %}
+    {% elsif post.layout == 'map' %}
+      {% include map_content.html %}
     {% else %}
       {% if thecycle == 'odd' %}
           {% include content_a.html %}
