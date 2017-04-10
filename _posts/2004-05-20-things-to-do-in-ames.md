@@ -23,4 +23,5 @@ Restaurants/Bars
   <li><a href="http://www.dublinbayames.com/" target="_blank">Dublin Bay</a> (<a href="https://goo.gl/maps/hEo5AWigeSE2" target="_blank">map</a>)</li>
   <li><a href="https://www.facebook.com/Stomping-Grounds-107335579324901/" target="_blank">Stomping Grounds</a> (<a href="https://goo.gl/maps/by3T7dycxNn" target="_blank">map</a>)</li>
   <li><a href="http://www.thecafeames.com/" target="_blank">The Cafe</a> (<a href="https://goo.gl/maps/FMDWZzrjvpL2" target="_blank">map</a>)</li>
+  <li><a href="http://www.welchave.com/" target="_blank">Welch Ave Station</a> (<a href="https://goo.gl/maps/zRYGcCiH1JK2" target="_blank">map</a>)</li>
 </ul>
