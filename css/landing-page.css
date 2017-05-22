@@ -31,8 +31,23 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/black-and-white.jpg) no-repeat center 43%;
+    background: url(../img/md-dip.jpg) no-repeat center 43%;
     background-size: cover;
+}
+
+.row.thank-you {
+    background: url(../img/vinyard-hands-red-gown.jpg) no-repeat center;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 400px;
+    text-align: center;
+}
+
+.thank-you > h1 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    color: #fff;
+    font-size:3em;
+    margin: 20px;
 }
 
 .rsvp-header {
@@ -162,7 +177,7 @@ h6 {
 .banner {
     padding: 240px 0;
     color: #f8f8f8;
-    background: url(../img/lake-laverne-bw.jpg) no-repeat 0% 27%;
+    background: url(../img/first-look-laughs.jpg) no-repeat 0% 27%;
     background-size: cover;
 }
 
